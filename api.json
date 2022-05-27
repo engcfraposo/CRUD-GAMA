@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Ziriguidunho",
+      "idade": 23
+    },
+    {
+      "nome": "Ziriguidunho Junior",
+      "idade": 14,
+      "id": 2
+    },
+    {
+      "nome": "Ziriguidunho Neto",
+      "idade": 5,
+      "id": 3
+    }
+  ]
+}
