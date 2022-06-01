@@ -3,3 +3,8 @@ export interface User {
     nome: string,
     idade: number,
 }
+
+interface Empresas {
+    razao_social: string,
+    cnpj: string,
+}
